@@ -1,7 +1,7 @@
 - Hi everyone welcome to my file!
 - My name is Dalal 
 - I’m interested in Artificial intelligence, also I'm interested in inventing and developing some applications 
-- I’m currently learning programming languages
+- I’m currently learning programming languages like JavaScript
 - Telegram account: @sumi_chan
 
 <!---
